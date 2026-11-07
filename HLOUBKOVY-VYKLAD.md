@@ -9,13 +9,13 @@
 Každá z třinácti vrstev odděluje místní zjištění, autorský test a dohledatelnou místní oporu. Tvrzení se při dalším psaní označuje podle své epistemické povahy:
 
 - **Text:** závěr přímo vyplývající z místního doslovného znění předpisu (citační bloky v kapitolách 01–05).
-- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže; k tomuto zákonu zatím žádná místní karta neexistuje.
+- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže; k tomuto zákonu existuje jediná místní karta, [NS 21 Cdo 702/2007](judikatura/NS-21-Cdo-702-2007.md), citovaná u § 4; u ostatních ustanovení místní judikatura chybí.
 - **Syntéza:** autorské propojení textu, systematiky, ústavního rámce (čl. 2, 15 a 16 Listiny) a navazujících předpisů, jak je reprodukují kapitoly.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo ji sám označuje jako **výkladovou otázku**.
 
-Místní korpus pro tuto mapu tvoří **6 souborů s výkladem** (úvod a pět kapitol), **33 samostatně nadepsaných komentovaných jednotek** (§ 1–12, § 14–15a, § 16–28, § 30, § 32, § 33, § 36 a příloha), **34 modalitních příkladů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), **8 zásad** v [ZASADY.md](ZASADY.md), **39 výslovně označených výkladových otázek** a **0 místních karet rozhodnutí**.
+Místní korpus pro tuto mapu tvoří **6 souborů s výkladem** (úvod a pět kapitol), **33 samostatně nadepsaných komentovaných jednotek** (§ 1–12, § 14–15a, § 16–28, § 30, § 32, § 33, § 36 a příloha), **34 modalitních příkladů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), **8 zásad** v [ZASADY.md](ZASADY.md), **39 výslovně označených výkladových otázek** a **1 místní karta rozhodnutí** (NS 21 Cdo 702/2007, citovaná u § 4).
 
-Úvod komentáře tuto metodickou výchozí pozici formuluje sám: „Repozitář neobsahuje místní judikaturní karty k tomuto zákonu. Komentář proto neuvádí žádné spisové značky soudních rozhodnutí a výklad opírá o text zákona, jeho systematiku, ústavní rámec (čl. 2, 15 a 16 Listiny základních práv a svobod) a navazující předpisy.“ ([00-uvod.md](00-uvod.md))
+Úvod komentáře tuto metodickou výchozí pozici formuluje sám: „Repozitář obsahuje k tomuto zákonu jedinou místní judikaturní kartu. Výklad se proto opírá především o text zákona, jeho systematiku, ústavní rámec (čl. 2, 15 a 16 Listiny základních práv a svobod) a navazující předpisy.“ ([00-uvod.md](00-uvod.md)) Úvod hned uvádí, že po sepsání komentáře byla do složky `judikatura/` doplněna jedna místní karta, [NS 21 Cdo 702/2007](judikatura/NS-21-Cdo-702-2007.md), citovaná u § 4 (rozbor ve vrstvě 9).
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -272,11 +272,12 @@ Reprezentativní normativní vazby porušení a následku:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím neobsahuje místní karty rozhodnutí (**0 karet**); složka `judikatura/` bude doplněna strojově později. Soubor zásad proto odkazuje na **0 místních karet s použitelnou citací** a kapitoly obsahují **0 citací spisových značek**. Úvod to výslovně uvádí: „Komentář neobsahuje judikaturu ani spisové značky; repozitář k zákonu nemá místní judikaturní karty.“ ([00-uvod.md](00-uvod.md))
-Místo judikatury kapitoly pracují s ústavním rámcem (čl. 2 odst. 1, čl. 15, čl. 16 odst. 1 až 4 Listiny) a s explicitním označením sporných míst jako výkladových otázek. Tato vrstva je proto **mezerou**, nikoli doloženým závěrem, že rozhodovací praxe neexistuje.
+Repozitář obsahuje **1 místní kartu rozhodnutí**: [NS 21 Cdo 702/2007](judikatura/NS-21-Cdo-702-2007.md) ze dne 11. 9. 2008 (kat. A), doplněnou do složky `judikatura/` po vygenerování komentáře a citovanou ve výkladu k [§ 4](01-uvodni-cirkve.md). Kapitoly tak obsahují **1 citaci spisové značky** a soubor zásad na kartu odkazuje u zásady autonomie. Úvod v poznámce k metodě uvádí: „Komentář cituje jedinou místní judikaturní kartu, a to dodatečně doplněnou kartu“ ([00-uvod.md](00-uvod.md)) U ostatních ustanovení místní judikatura chybí.
+Z právní věty karty plyne jen toto: řízení o neplatnost rozvázání pracovního (služebního) poměru duchovního církve nebo náboženské společnosti nelze zastavit pro nedostatek pravomoci soudů (§ 7 o. s. ř.) jen proto, že v něm nelze přezkoumávat věcnou správnost rozhodnutí příslušného orgánu církve nebo náboženské společnosti o odvolání duchovního z jeho funkce. Výklad k § 4 to shrnuje: „Autonomie podle odst. 3 tedy brání přezkumu vnitřního rozhodnutí o odvolání duchovního, nikoli soudní ochraně v pracovněprávním (služebním) sporu jako takové.“ ([01-uvodni-cirkve.md](01-uvodni-cirkve.md)) Dosah karty je omezen na tuto situaci; obecný závěr o přezkumu jiných vnitrocírkevních aktů z ní dovozovat nelze.
+U ostatních ustanovení místní judikatura chybí (přehled v [judikatura/README.md](judikatura/README.md)); kapitoly tam pracují s ústavním rámcem (čl. 2 odst. 1, čl. 15, čl. 16 odst. 1 až 4 Listiny) a s explicitním označením sporných míst jako výkladových otázek. Pro tato ustanovení je vrstva **mezerou**, nikoli doloženým závěrem, že rozhodovací praxe neexistuje.
 
-Okruhy, u nichž bude po doplnění karet rozhodující ověřit soudní linii (kontrolní priority odvozené z místních výkladových otázek):
-- meze přezkumu vnitrocírkevních aktů a autonomie podle čl. 16 odst. 2 Listiny (§ 4 odst. 3);
+Okruhy, u nichž bude při doplnění dalších karet rozhodující ověřit soudní linii (kontrolní priority odvozené z místních výkladových otázek):
+- meze přezkumu vnitrocírkevních aktů a autonomie podle čl. 16 odst. 2 Listiny (§ 4 odst. 3) — karta NS 21 Cdo 702/2007 pokrývá jen odvolání duchovního ve vztahu k pracovněprávnímu (služebnímu) sporu;
 - restriktivní výklad § 5 a přiměřenost zrušení registrace (§ 22);
 - povaha a přezkum registračního rozhodnutí jako vázaného aktu (§ 14);
 - rozsah zpovědního tajemství a povinnosti překazit trestný čin (§ 7 odst. 1 písm. e));
@@ -286,9 +287,10 @@ Okruhy, u nichž bude po doplnění karet rozhodující ověřit soudní linii (
 - U každého budoucího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
 - Ověřte, zda soud vykládal stejné znění (pozor na přeznačení písmen § 7 odst. 1 v roce 2012 a na úpravu zákonů č. 308/1991 Sb. a č. 161/1992 Sb.).
 - Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech (např. konkrétní praktiky jedné společnosti).
-- Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku; do doplnění karet žádnou linii netvrďte.
+- Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku; jediná místní karta linii netvoří, proto ji netvrďte ani u § 4.
+- Právní větu NS 21 Cdo 702/2007 nerozšiřujte z otázky pravomoci soudu v řízení o neplatnost rozvázání pracovního (služebního) poměru duchovního na jiné vnitrocírkevní akty.
 
-**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [úvodní místní výklad — Poznámka k metodě](00-uvod.md)
+**Místní opora.** [místní karta NS 21 Cdo 702/2007](judikatura/NS-21-Cdo-702-2007.md); [přehled místní judikatury](judikatura/README.md); [§ 4](01-uvodni-cirkve.md); [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [úvodní místní výklad — Poznámka k metodě](00-uvod.md)
 
 ## 10. Konkurenční výklady, protiargumenty a hraniční případy
 
@@ -296,7 +298,7 @@ Okruhy, u nichž bude po doplnění karet rozhodující ověřit soudní linii (
 Každá z 33 komentovaných jednotek obsahuje oddíl **G. Protiargumenty a rizika** a kapitoly výslovně označují **39 výkladových otázek**. Konkurenční výklady proto nejsou mezerou, ale nejhustší vrstvou komentáře. Výběr nejvýznamnějších:
 - [§ 1 — podpůrné použití OZ](01-uvodni-cirkve.md): zda jde o přiměřené, „nebo o plné podpůrné použití, je výkladovou otázkou, kterou zákon výslovně neřeší“.
 - [§ 2 — nezletilí](01-uvodni-cirkve.md): „kde přesně leží hranice (např. u účasti dospívajícího na náboženských úkonech proti vůli rodičů), je výkladovou otázkou, kterou je nutno řešit individuálně“.
-- [§ 4 — soudní přezkum vnitrocírkevních aktů](01-uvodni-cirkve.md): „obecně platí, že přezkum se vylučuje u věroučných a čistě vnitřních otázek, nikoli u nároků založených světským právem“.
+- [§ 4 — soudní přezkum vnitrocírkevních aktů](01-uvodni-cirkve.md): „obecně platí, že přezkum se vylučuje u věroučných a čistě vnitřních otázek, nikoli u nároků založených světským právem“. Pro odvolání duchovního a navazující pracovněprávní (služební) spor dává místní oporu karta [NS 21 Cdo 702/2007](judikatura/NS-21-Cdo-702-2007.md) (vrstva 9).
 - [§ 5 písm. a) × autonomie](01-uvodni-cirkve.md): „vnitřní pravidla církve o přístupu k duchovenskému úřadu (např. podle pohlaví) jsou vnitřní záležitostí (§ 4 odst. 3)“.
 - [§ 6 — jiná právní forma](01-uvodni-cirkve.md): „Zda může náboženské společenství zvolit alternativně jinou právní formu (např. spolek), zákon výslovně neřeší; jde o výkladovou otázku“.
 - [§ 7 — zpovědní tajemství](01-uvodni-cirkve.md): okruh chráněných osob je sporný, avšak „text zákona hovoří o duchovních“; k výroční zprávě: „zda může soustavné nezveřejňování vést ke zrušení oprávnění (např. jako porušování závazků vůči státu podle § 21 odst. 1 písm. a)), je výkladovou otázkou“.
@@ -314,7 +316,7 @@ Každá z 33 komentovaných jednotek obsahuje oddíl **G. Protiargumenty a rizik
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu; kapitolové „Neutralizace“ jsou výchozí bod, ne konečný závěr.
-- U každé varianty uveďte textový, systematický (OZ, správní řád, školský zákon), ústavní (čl. 16 Listiny) a — po doplnění karet — judikatorní argument.
+- U každé varianty uveďte textový, systematický (OZ, správní řád, školský zákon), ústavní (čl. 16 Listiny) a judikatorní argument (místně jen u § 4 — karta NS 21 Cdo 702/2007; jinak jej označte jako mezeru).
 - Porovnejte praktické následky variant (např. zrušení všech zvláštních práv vs. návrh na omezení rozsahu) a vysvětlete, který argument převáží a za jakých předpokladů.
 - Není-li spor místními prameny řešitelný, zachovejte varianty a označte nejistotu místo předstírání ustáleného závěru.
 
@@ -370,7 +372,7 @@ Aplikační vrstvu lze ověřit zejména v:
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **úvodem a 5 kapitolami** ve znění k 1. 1. 2025. Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní judikatura zatím neposkytuje žádnou kartu ani citovatelnou tezi (složka `judikatura/` bude doplněna strojově);
+- místní judikatura poskytuje jedinou kartu ([NS 21 Cdo 702/2007](judikatura/NS-21-Cdo-702-2007.md) u § 4); u ostatních ustanovení citovatelná judikatorní teze chybí;
 - místní důvodová zpráva není součástí repozitáře — historický a teleologický argument stojí jen na úvodu a na srovnání s přílohou zákona č. 308/1991 Sb.;
 - kapitoly 04 a 05 nemají samostatné řádky „Typicky rozhodné důkazy / podklady“;
 - rozsah zvláštních práv zachovaných podle § 28 odst. 1 nelze z místních zdrojů určit — výklad k příloze uvádí: „Příloha sama rozsah zvláštních práv neuvádí; ten je nutno zjistit ze stavu podle dosavadní úpravy a z Rejstříku registrovaných církví a náboženských společností (§ 18 odst. 1 písm. f)).“;
@@ -393,8 +395,8 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Úvod](00-uvod.md) | ano | nenalezeno | ano | jen konstatování absence | ano | ano | nenalezeno | ano |
-| [Kapitola 1](01-uvodni-cirkve.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Úvod](00-uvod.md) | ano | nenalezeno | ano | výchozí absence + výjimka (karta u § 4) | ano | ano | nenalezeno | ano |
+| [Kapitola 1](01-uvodni-cirkve.md) | ano | ano | ano | ano (§ 4) | ano | ano | ano | ano |
 | [Kapitola 2](02-registrace-evidovane-osoby.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 | [Kapitola 3](03-rejstriky-zruseni-zanik.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 | [Kapitola 4](04-spolecna-prechodna-novely.md) | ano | nenalezeno | ano | nenalezeno | ano | ano | ano | ano |
@@ -402,12 +404,12 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** textový signál nebyl nalezen v žádné z 5 kapitol; po strojovém doplnění `judikatura/` přezkoumat vrstvy 4, 8, 9 a 10.
+- **Judikatura:** textový signál je jen v [kapitole 1](01-uvodni-cirkve.md) (§ 4 — karta NS 21 Cdo 702/2007); v kapitolách 2 až 5 chybí; při doplnění dalších karet do `judikatura/` přezkoumat vrstvy 4, 8, 9 a 10.
 - **Důkazy:** samostatný signál chybí v úvodu a v [kapitole 4](04-spolecna-prechodna-novely.md) (§ 27 až § 36).
 - **Pojmy:** [kapitola 4](04-spolecna-prechodna-novely.md) nemá definiční signál; pojem vedlejší činnosti rozebírá jen kvalitativně u § 27 odst. 2 (bez kvantitativního kritéria) — sjednotit s výkladem k § 15a odst. 4.
 - **Časová působnost:** přesné datum vyhlášení (§ 36) kapitola výslovně odkazuje k ověření v záhlaví částky Sbírky; místní korpus je neuvádí.
 
-**Aktualizační spouštěče specifické pro ZCirk:** nová konsolidace zákona po 1. 1. 2025; změna § 20 zákona č. 169/1999 Sb., § 15 zákona č. 293/1993 Sb., § 15 školského zákona nebo § 657 a 658 OZ; výsledky nového sčítání lidu (kvórum 1 promile podle § 11 odst. 3 písm. a)); doplnění místních karet rozhodnutí; zjištění rozporu mezi kapitolou a [ZASADY.md](ZASADY.md) či [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md).
+**Aktualizační spouštěče specifické pro ZCirk:** nová konsolidace zákona po 1. 1. 2025; změna § 20 zákona č. 169/1999 Sb., § 15 zákona č. 293/1993 Sb., § 15 školského zákona nebo § 657 a 658 OZ; výsledky nového sčítání lidu (kvórum 1 promile podle § 11 odst. 3 písm. a)); doplnění dalších místních karet rozhodnutí; zjištění rozporu mezi kapitolou a [ZASADY.md](ZASADY.md) či [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md).
 
 **Hloubkový test.**
 - Na konci výkladu evidujte ověřené pravidlo, použitý místní zdroj, míru jistoty, otevřenou otázku a datum kontroly.
@@ -429,7 +431,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 | Proces | příslušnost, sled kroků, forma (rozhodnutí × zápis), lhůta, přezkum | seznam paragrafů bez časové osy |
 | Důkazy | znak, skutečnost, důkaz, břemeno, nejistota | nahrazení skutku právním názorem |
 | Následky | primární norma, výzva, následek, likvidace, ochrana | směšování zrušení, zániku a likvidace |
-| Judikatura | ratio, kontext, dosah, vývoj linie — po doplnění karet | izolovaná právní věta bez skutků nebo domyšlená judikatura |
+| Judikatura | ratio, kontext, dosah, vývoj linie — místně jen karta NS 21 Cdo 702/2007 u § 4 | izolovaná právní věta bez skutků nebo domyšlená judikatura |
 | Sporné výklady | nejsilnější varianty a důvod preference | potlačení rozumného protiargumentu |
 | Vazby | specialita, subsidiarita, přednost, ústavní limit | pouhý seznam souvisejících předpisů |
 | Aplikace | skutky, pravidlo, důkazy, subsumpce, výsledek | příklad bez výslovného naplnění znaků |
@@ -440,7 +442,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 1. Text zákona, závěr soudu, převzatou doktrínu a vlastní syntézu vždy oddělte.
 2. Každé významné tvrzení musí být dohledatelné v místním prameni nebo označené jako otevřená otázka.
 3. Míru jistoty vyjádřete jako ustálený závěr, převažující výklad, spornou otázku nebo autorský návrh.
-4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; dokud místní karty chybějí, žádný netvrďte.
+4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; u ustanovení bez místní karty žádný netvrďte.
 5. Neuvádějte pouze výsledek; zpřístupněte argumentační cestu tak, aby ji bylo možné přezkoumat.
 
 ## Kontrola před publikací

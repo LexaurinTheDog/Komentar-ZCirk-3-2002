@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 3/2002 Sb., o církvích a náboženských společnostech. Vychází výhradně z místních kapitol, místního znění předpisu (dokument e-Sbírky `SB-2002-00003_2025-01-01`) a souborů **ZASADY.md**, **PRAVNI-MODALITY.md** a **HLOUBKOVY-VYKLAD.md**. Místní důvodová zpráva ani místní karty rozhodnutí k tomuto zákonu zatím nejsou k dispozici. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 3/2002 Sb., o církvích a náboženských společnostech. Vychází výhradně z místních kapitol, místního znění předpisu (dokument e-Sbírky `SB-2002-00003_2025-01-01`) a souborů **ZASADY.md**, **PRAVNI-MODALITY.md** a **HLOUBKOVY-VYKLAD.md**. Místní důvodová zpráva k tomuto zákonu není k dispozici; z místních karet rozhodnutí je k dispozici jediná, [NS 21 Cdo 702/2007](judikatura/NS-21-Cdo-702-2007.md), citovaná u § 4. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -99,7 +99,7 @@ Riziko nejistoty nese v návrhových řízeních navrhovatel, v řízeních z mo
 
 **Jak ji řešit.** Pro každý znak normy vytvořte řádek: rozhodná skutečnost, kdo ji tvrdí, dostupný důkaz, kdo důkaz opatřuje, míra přesvědčení a následek neprokázání. Ověření podpisů a faktické činnosti není hodnocením víry; právní argument o autonomii nenahrazuje skutkové zjištění o nátlaku (§ 5 písm. e)) a zákonnou domněnku nelze dovodit jen z obtížného dokazování.
 
-**Místní opora.** [§ 10](02-registrace-evidovane-osoby.md); [§ 11](02-registrace-evidovane-osoby.md); [§ 14](02-registrace-evidovane-osoby.md); [§ 20](03-rejstriky-zruseni-zanik.md); [§ 24](03-rejstriky-zruseni-zanik.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md); místní judikatura — složka `judikatura/` bude doplněna strojově
+**Místní opora.** [§ 10](02-registrace-evidovane-osoby.md); [§ 11](02-registrace-evidovane-osoby.md); [§ 14](02-registrace-evidovane-osoby.md); [§ 20](03-rejstriky-zruseni-zanik.md); [§ 24](03-rejstriky-zruseni-zanik.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md); místní judikatura — k těmto ustanovením chybí ([přehled](judikatura/README.md))
 
 ## 7. Jaké právní následky, sankce a prostředky ochrany navazují?
 
@@ -132,6 +132,7 @@ Místní dokument zásad výslovně pojmenovává:
 Typické střety zachycené v kapitolách:
 - **autonomie × materiální meze** — „Autonomie však není absolutní: vnitřní předpisy se uplatní jen v mezích zákona (§ 5) a vůči třetím osobám působí rozsah oprávnění jednat zapsaný v rejstříku.“ ([§ 4](01-uvodni-cirkve.md)); zároveň riziko opačné: „příliš extenzivní výklad by vedl k postihu nepopulárních, ale zákonných učení; nutné je prokázat konkrétní jednání a následek“ ([§ 5](01-uvodni-cirkve.md));
 - **autonomie × publicita** — „autonomie podle čl. 16 odst. 2 Listiny se týká ustavování orgánů, nikoli účinků zápisu vůči třetím osobám, které upravuje zákon“ ([§ 17](03-rejstriky-zruseni-zanik.md));
+- **autonomie × soudní ochrana** — „Autonomie podle odst. 3 tedy brání přezkumu vnitřního rozhodnutí o odvolání duchovního, nikoli soudní ochraně v pracovněprávním (služebním) sporu jako takové.“ ([§ 4](01-uvodni-cirkve.md), k místní kartě [NS 21 Cdo 702/2007](judikatura/NS-21-Cdo-702-2007.md)); obecnější hranici přezkumu jiných vnitrocírkevních aktů výklad k § 4 ponechává jako výkladovou otázku;
 - **svoboda dítěte × usměrňování zákonnými zástupci** (§ 2 odst. 2) — rozsah usměrňování se zužuje s vyspělostí dítěte;
 - **zpovědní tajemství × ochrana před trestnou činností** (§ 7 odst. 1 písm. e)) — vyloučena je jen oznamovací povinnost, povinnost překazit trvá;
 - **neutralita × kooperace** (§ 4 odst. 2) — výuka náboženství, duchovenská služba a dotace jsou přípustnou spoluprací, nikoli náboženskou činností veřejné moci.
@@ -143,13 +144,14 @@ Typické střety zachycené v kapitolách:
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Místní korpus zatím neobsahuje **žádnou** kartu rozhodnutí; složka `judikatura/` bude doplněna strojově později. V systematickém souboru zásad je proto odkazováno na **0** místních karet s použitelnou citací a kapitoly neuvádějí žádnou spisovou značku.
-Místní korpus neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se proto nesmí domýšlet. Kapitoly místo toho otevřeně označují 39 výkladových otázek a opírají výklad o text zákona, systematiku a čl. 2, 15 a 16 Listiny.
-Okruhy, které bude po doplnění karet nutné prověřit přednostně: přezkum vnitrocírkevních aktů (§ 4 odst. 3), restriktivní výklad § 5 a přiměřenost zrušení registrace (§ 22), vázanost registračního rozhodnutí (§ 14), rozsah zpovědního tajemství (§ 7 odst. 1 písm. e)), dosah publicity rejstříku (§ 17 odst. 5).
+Místní korpus obsahuje **jednu** kartu rozhodnutí: [NS 21 Cdo 702/2007](judikatura/NS-21-Cdo-702-2007.md) ze dne 11. 9. 2008 (kat. A), citovanou ve výkladu k [§ 4](01-uvodni-cirkve.md); soubor zásad na ni odkazuje u zásady autonomie. U ostatních ustanovení místní judikatura chybí ([přehled](judikatura/README.md)) a kapitoly jinou spisovou značku neuvádějí.
+Z právní věty karty plyne jen toto: řízení o neplatnost rozvázání pracovního (služebního) poměru duchovního církve nebo náboženské společnosti nelze zastavit pro nedostatek pravomoci soudů (§ 7 o. s. ř.) jen proto, že v něm nelze přezkoumávat věcnou správnost rozhodnutí příslušného orgánu církve nebo náboženské společnosti o odvolání duchovního z jeho funkce. Výklad k § 4 z toho vyvozuje: „Autonomie podle odst. 3 tedy brání přezkumu vnitřního rozhodnutí o odvolání duchovního, nikoli soudní ochraně v pracovněprávním (služebním) sporu jako takové.“ ([§ 4](01-uvodni-cirkve.md))
+Mimo tuto situaci místní korpus citovatelnou judikatorní tezi neposkytuje; judikatorní odpověď se proto nesmí domýšlet. Kapitoly místo toho otevřeně označují 39 výkladových otázek a opírají výklad o text zákona, systematiku a čl. 2, 15 a 16 Listiny.
+Okruhy, které bude při doplnění dalších karet nutné prověřit přednostně: přezkum jiných vnitrocírkevních aktů než odvolání duchovního (§ 4 odst. 3), restriktivní výklad § 5 a přiměřenost zrušení registrace (§ 22), vázanost registračního rozhodnutí (§ 14), rozsah zpovědního tajemství (§ 7 odst. 1 písm. e)), dosah publicity rejstříku (§ 17 odst. 5).
 
-**Jak ji řešit.** U každého budoucího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění a stejný právní problém (pozor na přeznačení písmen § 7 odst. 1 zákonem č. 428/2012 Sb. a na úpravu před rokem 2002). Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; chybějící místní judikaturu označte jako mezeru.
+**Jak ji řešit.** U každého budoucího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění a stejný právní problém (pozor na přeznačení písmen § 7 odst. 1 zákonem č. 428/2012 Sb. a na úpravu před rokem 2002). Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo — u NS 21 Cdo 702/2007 tedy ne z otázky pravomoci soudu ve sporu o rozvázání pracovního (služebního) poměru duchovního na jiné vnitrocírkevní akty; chybějící místní judikaturu označte jako mezeru.
 
-**Místní opora.** místní judikatura — složka `judikatura/` (strojové doplnění); [místní zásady](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md); [Poznámka k metodě](00-uvod.md)
+**Místní opora.** [místní karta NS 21 Cdo 702/2007](judikatura/NS-21-Cdo-702-2007.md); [přehled místní judikatury](judikatura/README.md); [§ 4](01-uvodni-cirkve.md); [místní zásady](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md); [Poznámka k metodě](00-uvod.md)
 
 ## 10. Jaké systematické, kolizní a časové vazby mohou změnit odpověď?
 
@@ -169,7 +171,7 @@ K novelizačním ustanovením místní výklad upozorňuje: „Platné znění j
 Všech 33 komentovaných jednotek má oddíl **G. Protiargumenty a rizika** a kapitoly označují 39 výkladových otázek. Místní kapitoly výslovně zachycují například tyto otázky nebo námitky:
 - [§ 1 — přiměřené, nebo plné podpůrné použití OZ](01-uvodni-cirkve.md)
 - [§ 2 — hranice usměrňování nezletilého zákonnými zástupci](01-uvodni-cirkve.md)
-- [§ 4 — soudní přezkum vnitrocírkevních aktů a hranice zaměnitelnosti názvu](01-uvodni-cirkve.md)
+- [§ 4 — soudní přezkum vnitrocírkevních aktů a hranice zaměnitelnosti názvu](01-uvodni-cirkve.md) (k odvolání duchovního srov. místní kartu [NS 21 Cdo 702/2007](judikatura/NS-21-Cdo-702-2007.md))
 - [§ 5 — autonomie přístupu k duchovenskému úřadu × písm. a); rozsah povinnosti neutajovat učení podle písm. f)](01-uvodni-cirkve.md)
 - [§ 6 — převzetí jednání přípravného výboru a alternativní právní forma společenství](01-uvodni-cirkve.md)
 - [§ 7 — okruh osob chráněných zpovědním tajemstvím, hranice nezbytného prolomení, sankce za nezveřejnění výroční zprávy](01-uvodni-cirkve.md)
@@ -184,7 +186,7 @@ Všech 33 komentovaných jednotek má oddíl **G. Protiargumenty a rizika** a ka
 
 Dvě otázky, které kapitoly výslovně ponechávají otevřené: „zda při souběhu řízení o zrušení a návrhu na omezení rozsahu má ministerstvo povinnost projednat nejprve návrh církve; zákon pořadí neupravuje“ ([§ 21](03-rejstriky-zruseni-zanik.md)) a „zda se zrušení podle písm. a) provádí rozhodnutím ve správním řízení, nebo jen zápisem“ ([§ 26](03-rejstriky-zruseni-zanik.md)).
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, ústavní a — po doplnění karet — judikatorní argument, praktický následek a důvod, proč jeden převáží. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, ústavní a judikatorní argument (místně jen u § 4 — karta NS 21 Cdo 702/2007; jinak mezera), praktický následek a důvod, proč jeden převáží. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
 
 **Místní opora.** [kapitola 01](01-uvodni-cirkve.md); [kapitola 02](02-registrace-evidovane-osoby.md); [kapitola 03](03-rejstriky-zruseni-zanik.md); [kapitola 04](04-spolecna-prechodna-novely.md); [místní zásady](ZASADY.md); [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md)
 
@@ -202,9 +204,9 @@ Příklad varianty změnou jediné skutečnosti: „Je-li společenství dosud n
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **úvod a 5 kapitol** se 33 komentovanými jednotkami a **0** karet rozhodnutí, doplněných samostatnou mapou zásad, modalit a hloubkovým výkladem. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **úvod a 5 kapitol** se 33 komentovanými jednotkami, **1** karta rozhodnutí ([NS 21 Cdo 702/2007](judikatura/NS-21-Cdo-702-2007.md), citovaná u § 4) a samostatná mapa zásad, modalit a hloubkový výklad. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura zatím neposkytuje citovatelnou tezi (složka `judikatura/` bude doplněna strojově);
+- místní judikatura poskytuje citovatelnou tezi jen k § 4 (karta NS 21 Cdo 702/2007); u ostatních ustanovení chybí;
 - místní důvodová zpráva není součástí repozitáře;
 - rozsah zvláštních práv zachovaných podle § 28 odst. 1 nelze z místních zdrojů určit;
 - přesné datum vyhlášení zákona (§ 36) místní korpus neuvádí;
@@ -213,4 +215,4 @@ Aktualizaci musí spustit zejména nová konsolidace zákona po 1. 1. 2025, změ
 
 **Jak ji řešit.** Na konci každého výkladu veďte krátký stav poznání: ověřené pravidlo, použitý místní zdroj, otevřená otázka a událost vyžadující revizi. Tvrzení bez dohledatelného místního podkladu buď odstraňte, nebo je označte jako hypotézu; absenci rozhodnutí nikdy neformulujte jako ustálený právní závěr.
 
-**Místní opora.** [rejstřík místního korpusu](INDEX.md); místní judikatura — složka `judikatura/` (strojové doplnění); [místní zásady](ZASADY.md); [místní modality](PRAVNI-MODALITY.md); [Stav poznání, kapitolová úplnost a aktualizační spouštěče](HLOUBKOVY-VYKLAD.md)
+**Místní opora.** [rejstřík místního korpusu](INDEX.md); [místní judikatura](judikatura/README.md) (1 karta: NS 21 Cdo 702/2007); [místní zásady](ZASADY.md); [místní modality](PRAVNI-MODALITY.md); [Stav poznání, kapitolová úplnost a aktualizační spouštěče](HLOUBKOVY-VYKLAD.md)

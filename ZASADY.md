@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — doslovné znění zákona a výklad citované v kapitolách [01-uvodni-cirkve.md](01-uvodni-cirkve.md), [02-registrace-evidovane-osoby.md](02-registrace-evidovane-osoby.md), [03-rejstriky-zruseni-zanik.md](03-rejstriky-zruseni-zanik.md), [04-spolecna-prechodna-novely.md](04-spolecna-prechodna-novely.md) a [05-priloha.md](05-priloha.md), s úvodním přehledem v [00-uvod.md](00-uvod.md). Každá zásada je doložena doslovnou citací buď ze znění zákona, nebo z výkladu ke konkrétnímu paragrafu; u každé citace je uveden soubor a paragraf. Repozitář neobsahuje místní judikaturní karty, a proto zde nejsou uváděny žádné spisové značky; tam, kde výklad pracuje s ústavním rámcem, opírá se o text Listiny základních práv a svobod tak, jak jej reprodukují kapitoly komentáře.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — doslovné znění zákona a výklad citované v kapitolách [01-uvodni-cirkve.md](01-uvodni-cirkve.md), [02-registrace-evidovane-osoby.md](02-registrace-evidovane-osoby.md), [03-rejstriky-zruseni-zanik.md](03-rejstriky-zruseni-zanik.md), [04-spolecna-prechodna-novely.md](04-spolecna-prechodna-novely.md) a [05-priloha.md](05-priloha.md), s úvodním přehledem v [00-uvod.md](00-uvod.md). Každá zásada je doložena doslovnou citací buď ze znění zákona, nebo z výkladu ke konkrétnímu paragrafu; u každé citace je uveden soubor a paragraf. Repozitář obsahuje jedinou místní judikaturní kartu — NS 21 Cdo 702/2007 ze dne 11. 9. 2008, citovanou u § 4 ([judikatura/NS-21-Cdo-702-2007.md](judikatura/NS-21-Cdo-702-2007.md)) —, na kterou odkazuje zásada autonomie (2); u ostatních ustanovení místní judikatura chybí, a proto zde jiné spisové značky uváděny nejsou; tam, kde výklad pracuje s ústavním rámcem, opírá se o text Listiny základních práv a svobod tak, jak jej reprodukují kapitoly komentáře.
 
 Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení.
 
@@ -72,6 +72,11 @@ Tutéž zásadu promítá výklad k § 15 do rejstříkové praxe:
 
 > „Ministerstvo přitom nezkoumá, zda volba byla v souladu s vnitřním právem nad rámec doložení ustavení příslušným orgánem — zasahovalo by do autonomie podle § 4 odst. 3."
 > — [02-registrace-evidovane-osoby.md](02-registrace-evidovane-osoby.md), výklad k § 15
+
+Vztah autonomie a soudní ochrany vymezuje jediná místní judikaturní karta k zákonu, [NS 21 Cdo 702/2007](judikatura/NS-21-Cdo-702-2007.md) ze dne 11. 9. 2008, citovaná u § 4. Podle její právní věty nelze řízení o neplatnost rozvázání pracovního (služebního) poměru duchovního zastavit pro nedostatek pravomoci soudů (§ 7 o. s. ř.) jen proto, že v něm nelze přezkoumávat věcnou správnost rozhodnutí příslušného orgánu církve nebo náboženské společnosti o odvolání duchovního z funkce. Výklad k § 4 z toho vyvozuje:
+
+> „Autonomie podle odst. 3 tedy brání přezkumu vnitřního rozhodnutí o odvolání duchovního, nikoli soudní ochraně v pracovněprávním (služebním) sporu jako takové."
+> — [01-uvodni-cirkve.md](01-uvodni-cirkve.md), výklad k § 4 (k místní judikaturní kartě NS 21 Cdo 702/2007)
 
 Autonomie však není neomezená: uplatní se v mezích zákona (§ 5) a vůči třetím osobám ustupuje účinkům rejstříkového zápisu (§ 17 odst. 5). Praktickým důsledkem je, že stát nehodnotí věrouku ani vnitřní personální rozhodnutí, ale může trvat na formálním doložení, že je přijal orgán příslušný podle základního dokumentu.
 

@@ -2,7 +2,7 @@
 
 > **Znění k 1. lednu 2025** (dokument e-Sbírky `SB-2002-00003_2025-01-01`). Komentář je zpracován **výhradně z lokálních materiálů** — z místní kopie konsolidovaného znění v e-Sbírce a z výkladu obsaženého v kapitolách tohoto repozitáře; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Repozitář neobsahuje místní judikaturní karty k tomuto zákonu. Komentář proto neuvádí žádné spisové značky soudních rozhodnutí a výklad opírá o text zákona, jeho systematiku, ústavní rámec (čl. 2, 15 a 16 Listiny základních práv a svobod) a navazující předpisy. Tam, kde výklad není jednoznačný, je to výslovně označeno jako **výkladová otázka**. Řada poznámek pod čarou v konsolidovaném znění dosud odkazuje na zrušené předpisy (např. zákon o rodině, zákon č. 29/1984 Sb., trestní zákon č. 140/1961 Sb., zákon č. 37/1973 Sb.); komentář na tyto zastaralé odkazy u příslušných ustanovení upozorňuje a uvádí dnes platnou úpravu.
+> **Metodická poznámka:** Repozitář obsahuje k tomuto zákonu jedinou místní judikaturní kartu. Výklad se proto opírá především o text zákona, jeho systematiku, ústavní rámec (čl. 2, 15 a 16 Listiny základních práv a svobod) a navazující předpisy. Touto kartou, doplněnou po sepsání komentáře, je rozhodnutí Nejvyššího soudu sp. zn. 21 Cdo 702/2007 ze dne 11. 9. 2008 (kat. A), citované u § 4 ([judikatura/NS-21-Cdo-702-2007.md](judikatura/NS-21-Cdo-702-2007.md)); u ostatních ustanovení místní judikatura chybí. Tam, kde výklad není jednoznačný, je to výslovně označeno jako **výkladová otázka**. Řada poznámek pod čarou v konsolidovaném znění dosud odkazuje na zrušené předpisy (např. zákon o rodině, zákon č. 29/1984 Sb., trestní zákon č. 140/1961 Sb., zákon č. 37/1973 Sb.); komentář na tyto zastaralé odkazy u příslušných ustanovení upozorňuje a uvádí dnes platnou úpravu.
 
 ---
 
@@ -72,7 +72,7 @@ Doprovodné přehledy: [ZASADY.md](ZASADY.md) (právní zásady doložené doslo
 ## Poznámka k metodě
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** (bez elips) podle dokumentu e-Sbírky `SB-2002-00003_2025-01-01`, pod ním oddíl `**Výklad:**` členěný podle odstavců a dále oddíly F. Kazuistika, G. Protiargumenty a rizika a H. Praktický závěr s kontrolním checklistem.
-- Komentář neobsahuje judikaturu ani spisové značky; repozitář k zákonu nemá místní judikaturní karty. Sporné body jsou otevřeně označeny jako výkladové otázky.
+- Komentář cituje jedinou místní judikaturní kartu, a to dodatečně doplněnou kartu [NS 21 Cdo 702/2007](judikatura/NS-21-Cdo-702-2007.md) u § 4: podle její právní věty nelze řízení o neplatnost rozvázání pracovního (služebního) poměru duchovního zastavit pro nedostatek pravomoci soudů jen proto, že v něm nelze přezkoumávat věcnou správnost rozhodnutí příslušného orgánu církve nebo náboženské společnosti o odvolání duchovního z funkce. U ostatních ustanovení místní judikatura chybí (přehled v [judikatura/README.md](judikatura/README.md)). Sporné body jsou otevřeně označeny jako výkladové otázky.
 - Zastaralé odkazy poznámek pod čarou na zrušené předpisy se v textu výslovně identifikují a nahrazují odkazem na dnes platnou úpravu.
 - Kazuistiky jsou modelové situace sloužící k ilustraci aplikace normy; nejde o popis skutečných případů.
 

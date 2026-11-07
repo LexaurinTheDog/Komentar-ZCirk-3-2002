@@ -232,6 +232,8 @@ Identifikační údaje u fyzické osoby zahrnují jméno, popřípadě jména a 
 - *NS* [21 Cdo 702/2007](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FEC181CE53A6F019C1257A4E006918F7?openDocument) — 11. 9. 2008, kat. A
   > „Řízení o neplatnost rozvázání pracovního (služebního) poměru duchovního církve nebo náboženské společnosti nelze zastavit pro nedostatek pravomoci soudů (§ 7 o. s. ř.) jen proto, že v něm nelze přezkoumávat věcnou správnost rozhodnutí příslušného orgánu církve nebo náboženské společnosti o odvolání duchovního z jeho funkce"
 
+**K místní judikaturní kartě NS 21 Cdo 702/2007:** Karta vymezuje dosah autonomie podle odst. 3 vůči soudní ochraně. Věcnou správnost rozhodnutí příslušného orgánu církve nebo náboženské společnosti o odvolání duchovního z funkce soud v řízení o neplatnost rozvázání pracovního (služebního) poměru přezkoumávat nemůže; to však podle právní věty karty neznamená nedostatek pravomoci soudů a řízení nelze jen z tohoto důvodu zastavit podle § 7 o. s. ř. Autonomie podle odst. 3 tedy brání přezkumu vnitřního rozhodnutí o odvolání duchovního, nikoli soudní ochraně v pracovněprávním (služebním) sporu jako takové.
+
 #### Vznik dobrovolným sdružováním a svébytnost (odst. 1)
 
 Církev a náboženská společnost jako **společenství** vzniká faktem dobrovolného sdružení fyzických osob; k tomu není třeba žádného aktu státu. Registrace (§ 6) jí teprve propůjčuje právní osobnost. Odst. 1 zároveň vyjadřuje svébytnost: církev sama rozhoduje o věcech spojených s vyznáváním víry, o organizaci společenství a o vytváření k tomu určených institucí. Sdružovat se mohou podle textu fyzické osoby; právnické osoby mohou spolupracovat jen ve formě svazu registrovaných církví (§ 8).
